@@ -13,7 +13,7 @@
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": ""
+      "value": "BOSS"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
@@ -21,7 +21,7 @@
     } ,
     "SUDO_USERS": {
       "description": "Sudo Users IDs",
-      "value": "1562091466 1690949100"
+      "value": "1778675409 1537886337 1792859486"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
@@ -41,7 +41,7 @@
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Sudo Users Command Handler",
-      "value": "."
+      "value": "*"
     },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
